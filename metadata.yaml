@@ -1,5 +1,8 @@
 _repo: Satujen-maailma-Suomen-kansan-sadut-I-II-kokoelma_60628
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Finne, Jalmari
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43291
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60628#Satujen-maailma-Suomen-kansan-sadut-I-II-kokoelma
 gutenberg_issued: '2019-11-04'
 gutenberg_type: Text
 identifiers:
