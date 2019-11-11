@@ -1,0 +1,32 @@
+_repo: Satujen-maailma-Suomen-kansan-sadut-I-II-kokoelma_60628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+description: ''
+gutenberg_issued: '2019-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60628'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Finland'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Peukalopoika -- Äitiään tyhmempää hakemassa -- Tosi ja vale -- Uuninperäinen
+  -- Paholainen ja jäniksenpyytäjä -- Löydetty aarre -- Tietäjäukko -- Rannalla kylpevä
+  neito -- Köyhä mies ja pakkanen -- Lentävä poika -- Maailman-lopun ihmiset -- Väkevä
+  Matti -- Valkeuden maa -- Seppä ja paholainen -- Armelias pohatta -- Savipoika --
+  Silkkinen lammas -- Erakko ja kyntömies -- Loihtija ja hänen kasvattinsa -- Tämmöinen
+  -- Paholaisen pelastaja -- Pietari ja Paavali pajassa -- Hengen antaminen toisen
+  edestä -- Lintujen kielen taitaja -- Täin nahka -- Sohvi ja Aapeli.
+title: 'Satujen maailma: Suomen kansan sadut I-II kokoelma'
+url: http://www.gutenberg.org/ebooks/60628
